@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates the application of Natural Language Processing (NLP) techniques to analyze a CSV dataset using Jupyter Notebook. It provides a step-by-step guide on how to:
+This project demonstrates the application of Natural Language Processing (NLP) techniques to analyze a CSV dataset using Google Colab Notebook. It provides a step-by-step guide on how to:
 
 > Load and preprocess the CSV data. <br>
 > Apply NLP techniques such as tokenization, stemming, and lemmatization.<br>
