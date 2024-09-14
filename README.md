@@ -16,3 +16,7 @@ This project demonstrates the application of Natural Language Processing (NLP) t
 * nltk: Natural Language Toolkit for NLP tasks.
 * matplotlib: For data visualization.
 * seaborn: For statistical data visualization.
+
+**Additional Notes**
+
+The project assumes basic knowledge of Python and Google Colab.
